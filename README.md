@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Passionné par l'univers d'informatique et doté d'une grande curiosité, je suis diplômé d'une licence fondamentale en sciences Mathématiques et informatiques, et en cours de suivre une formation de master en Big Data je suis intéressé au monde des données, Aussi, leur collecte, leur traitement, leur sécurisation et leur exploitation m'intéressent au plus haut point. Pour conclure des synthèses et aussi pour prédire les actions qui viennent
+Passionate about the world of computer science and endowed with a great curiosity, I graduated from a Master in Big Data and data science at the National School of Computer Science and System Analysis (ENSIAS) in Rabat.I am interested in the world of data, Also, their collection, processing, analysis and exploitation are of the utmost interest to me.
 
 
 *Languages**
