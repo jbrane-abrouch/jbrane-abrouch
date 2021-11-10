@@ -25,14 +25,7 @@ Passionate about the world of computer science and endowed with a great curiosit
 <p align="left">
 
 <br>
-<a href="https://twitter.com/jbranAbrouch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="proxlight01" height="30" width="40" /></a><br>
-<a href="https://linkedin.com/in/jbrane-abrouch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="proxlight" height="30" width="40" /></a><br>
-<a href="https://stackoverflow.com/users/11068755/jbrane-abrouch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="proxlight" height="30" width="40" /></a><br>
-
-<a href="https://fb.com/jbrane_abrouch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="proxlight" height="30" width="40" /></a><br>
-
-
-<a href="https://medium.com/@jbran1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@proxlight" height="30" width="40" /></a><br>
+<a href="https://twitter.com/jbranAbrouch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="proxlight01" height="30" width="40" /></a><a href="https://linkedin.com/in/jbrane-abrouch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="proxlight" height="30" width="40" /></a><a href="https://stackoverflow.com/users/11068755/jbrane-abrouch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="proxlight" height="30" width="40" /></a><a href="https://fb.com/jbrane_abrouch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="proxlight" height="30" width="40" /></a><a href="https://medium.com/@jbran1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@proxlight" height="30" width="40" /></a>
 
 
 
